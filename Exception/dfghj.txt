@@ -1,0 +1,22 @@
+methods
+
+
+
+
+
+
+
+methods used to generate the output
+------------------------------------
+1-
+drowString()->
+
+public void drowString(String intx, inty,intz)
+
+2-
+drowLine()->
+	
+public void drowLine(int x,int y1,int xz, int yz)
+
+3- 
+ 
